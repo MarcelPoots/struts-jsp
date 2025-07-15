@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <col1>Apple</col1>
+        <col2>Red</col2>
+    </row>
+    <row>
+        <col1>Banana</col1>
+        <col2>Yellow</col2>
+    </row>
+</rows>
